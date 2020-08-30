@@ -1,0 +1,1 @@
+﻿Sang việt hóa dùm img "2col-banner1.jpg"
